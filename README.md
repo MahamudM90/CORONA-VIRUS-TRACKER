@@ -4,9 +4,6 @@
 
 ![COVID-19 Tracker]()
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
-
 ## Introduction
  we will create a full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
 
