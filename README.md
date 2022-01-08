@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-### [Live Site](https://61d981ead8cd12591f5ee15c--nostalgic-easley-ac630a.netlify.app/)
+### [Live Site](https://61d9879789e2055093f9620a--flamboyant-dijkstra-e75763.netlify.app/)
 
 ![COVID-19 Tracker]()
 
