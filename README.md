@@ -5,7 +5,7 @@
 ![COVID-19 Tracker]()
 
 ## Introduction
- I create t full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
+ I create th full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
 
 
 API used: https://covid19.mathdro.id/api
